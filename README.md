@@ -31,6 +31,8 @@ The project was developed as a cybersecurity portfolio project to demonstrate pr
 
 ## 🏗️ Architecture
 
+![AutoVulnScan Architecture](screenshots/autovulnscan-architecture.png)
+
 ```text
                          ┌──────────────────────┐
                          │      User Target     │
